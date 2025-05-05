@@ -22,6 +22,6 @@
 <li>(DEL) api/table_transaction/{table_transaction}</li>
 <li>(GET) api/table_transaction/{table_transaction}/detail_transaction</li>
 <li>(POST) api/table_transaction/{table_transaction}/detail_transaction</li>
-<li>(PUT) api/table_transaction/{table_transaction}/detail_transaction</li>
-<li>(DEL) api/table_transaction/{table_transaction}/detail_transaction</li>
+<li>(PUT) api/table_transaction/{table_transaction}/detail_transaction/{detail_transaction}</li>
+<li>(DEL) api/table_transaction/{table_transaction}/detail_transaction/{detail_transaction}</li>
 </ul>
